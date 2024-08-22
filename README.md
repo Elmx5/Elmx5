@@ -3,18 +3,12 @@
   
   - <h2/>DataStoreService Testing</h2>
   [![Hello](https://img.youtube.com/vi/GxvRNz8nnW8/0.jpg)](https://www.youtube.com/watch?v=GxvRNz8nnW8)
-  <br>
-   - <h2/>Life Simulation Project (GUI/TweenService/Teams)</h2>
+  - <h2/>Life Simulation Project (GUI/TweenService/Teams)</h2>
   [![Hello](https://img.youtube.com/vi/B5djLFuu4l0/0.jpg)](https://www.youtube.com/watch?v=B5djLFuu4l0)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - <h2/>Bot Army Following (LocalPlayer/Management of a lot of data)</h2>
+  [![Hello](https://img.youtube.com/vi/D0kMK5zElDw/0.jpg)](https://www.youtube.com/watch?v=D0kMK5zElDw)
+  - <h2/>RNG Test Game (TweenService/GUI/RNG feature)</h2>
+  [![Hello](https://img.youtube.com/vi/pPf_UEyXf/0.jpg)](https://www.youtube.com/watch?v=pPf_UEyXf)
 
 <h2> 🤳 Connect with me:</h2>
 
