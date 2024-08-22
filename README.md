@@ -8,7 +8,7 @@
   - <h2/>Bot Army Following (LocalPlayer/Management of a lot of data)</h2>
   [![Hello](https://img.youtube.com/vi/D0kMK5zElDw/0.jpg)](https://www.youtube.com/watch?v=D0kMK5zElDw)
   - <h2/>RNG Test Game (TweenService/GUI/RNG feature)</h2>
-  [![Hello](https://img.youtube.com/vi/D0kMK5zElDw/0.jpg)](https://www.youtube.com/watch?v=D0kMK5zElDw)
+  [![Hello](https://img.youtube.com/vi/pPf_UEyXf-U/0.jpg)](https://www.youtube.com/watch?v=pPf_UEyXf-U)
 
 <h2> 🤳 Connect with me:</h2>
 
