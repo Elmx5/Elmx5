@@ -10,7 +10,7 @@
   - <h2/>RNG Test Game (TweenService/GUI/RNG feature)</h2>
   [![Hello](https://img.youtube.com/vi/pPf_UEyXf-U/0.jpg)](https://www.youtube.com/watch?v=pPf_UEyXf-U)
 
-<h2>📲 Contact Me 📲:</h2>
+<h1>📲 Contact Me 📲:</h1>
 
 [<img align="left" alt="Elmx5 | Discord" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
