@@ -2,6 +2,7 @@
 - <h1>💻Roblox Scripting Projects💻:</h1>
   
   - <h2/><a href="https://youtu.be/GxvRNz8nnW8">DataStoreService Testing</a></h2>
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B5djLFuu4l0/0.jpg)](https://www.youtube.com/watch?v=B5djLFuu4l0)
   - <h2/><a href="https://youtu.be/GxvRNz8nnW8">Life Simulation Project (GUI/TweenService/Teams)</a></h2>
 
 <h2>📺 Popular YouTube Videos</h2>
