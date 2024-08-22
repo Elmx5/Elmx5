@@ -12,8 +12,6 @@
 
 <h2>📲 Contact Me 📲:</h2>
 
-[<img align="left" alt="Elmx5 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Elmx5 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/roblox.svg" />][roblox]
+[<img align="left" alt="Elmx5 | Discord" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [discord]: https://www.discordapp.com/users/919255519733104713
-[roblox]: https://www.roblox.com/es/users/2528084061/profile
